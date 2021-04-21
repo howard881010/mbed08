@@ -30,7 +30,7 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "NEGATIVE:\n\r"
+        "FORWARD:\n\r"
         "      *     *      \n\r"
         "       *   *       \n\r"
         "        * *        \n\r"
